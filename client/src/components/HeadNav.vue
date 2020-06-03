@@ -3,7 +3,7 @@
         <el-row>
             <el-col :span="6" class="logo-container">
                 <img src="../assets/img/logo.png" class="logo"/>
-                <span class="title">季夏二十一后台管理系统</span>
+                <span class="title">资金流水管理系统</span>
             </el-col>
             <el-col :span="6" class="user">
                 <div class="userinfo">

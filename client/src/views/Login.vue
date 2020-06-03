@@ -2,7 +2,7 @@
     <div class="login">
         <section class="form_container">
             <div class="manage_tip">
-                <span class="title">季夏二十一后台管理系统</span>
+                <span class="title">资金流水后台管理系统</span>
                 <el-form :model="loginUser" :rules="rules" ref="loginForm" label-width="60px"
                                        class="loginForm">
                         <el-form-item label="邮箱" prop="email">
