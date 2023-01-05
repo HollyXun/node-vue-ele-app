@@ -20,7 +20,7 @@
     "@vue/cli-plugin-babel": "^4.1.0",
     "@vue/cli-plugin-router": "^4.1.0",
     "@vue/cli-plugin-vuex": "^4.1.0",
-    "@vue/cli-service": "^4.1.0",
+    "@vue/cli-service": "^5.0.8",
     "style-loader": "^1.1.2",
     "stylus": "^0.54.7",
     "stylus-loader": "^3.0.2",
